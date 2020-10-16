@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+阿里云.txt
+面试题.txt
 
 # local env files
 .env.local
